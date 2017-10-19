@@ -84,9 +84,27 @@ The instructions below outline how to use the particle-cli tool to create a simp
 
 ### Step 1:  Create an .ino file
 
-In your terminal, make a directory to store your code: `mkdir firstPhoton`
+On your Desktop, or in your choice of a folder, create a file to store the project. 
 
-Use the "cd" command to change to that directory:  `cd firstPhoton`
+You can do this in your terminal, with the following commands:
+
+Step 1: Selet the folder in which you will create the folder:
+
+If you want to create a folder (i.e., a directory) on your Desktop, you first need to route the terminal to the Desktop.
+
+You can do this by typing the following command in terminal:
+
+`cd Desktop`.
+
+Now, you are routed to the Desktop. So, let's create a folder (i.e., a directory) named "firstPhoton":
+
+`mkdir firstPhoton`
+
+You are going to create programming files in this folder, so you have to route to the folder:
+
+`cd firstPhoton`
+
+Great! Now you are in 'firstPhoton' folder. 
 
 Create a file called "blinky.ino": `touch blinky.ino`
 
