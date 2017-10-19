@@ -53,7 +53,7 @@ Be sure to give the device a clear description (e.g. "Photon Redboard 1") and to
 Return to Node.js to begin the setup process of the Photon itself.
 `particle serial wifi`
 
-When prompted, choose or enter "DukeOpen" and choose "Unsecured" for security type.
+When prompted, choose or enter "DukeOpen" and choose "WPA2" for security type then type your password.
 
 To claim your Photon (e.g. add it to your Particle account), you first need to get its deviceID.  With the Photon in Listening Mode, enter the following at the `$` prompt in your terminal/command line:
 `particle serial identify`
