@@ -1,2 +1,0 @@
-# IoT
-Particle Photon, Arduino
